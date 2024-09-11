@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/static/css/main.3e96e376.css",
+    "main.js": "/static/js/main.fd1bc010.js",
+    "static/js/453.a48316b3.chunk.js": "/static/js/453.a48316b3.chunk.js",
+    "static/media/Logo_embajada.png": "/static/media/Logo_embajada.dc37cbabcf2755904a6b.png",
+    "index.html": "/index.html",
+    "main.3e96e376.css.map": "/static/css/main.3e96e376.css.map",
+    "main.fd1bc010.js.map": "/static/js/main.fd1bc010.js.map",
+    "453.a48316b3.chunk.js.map": "/static/js/453.a48316b3.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3e96e376.css",
+    "static/js/main.fd1bc010.js"
+  ]
+}
